@@ -1,0 +1,33 @@
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 0 auto;
+}
+
+div.skill-card {
+  margin: 10px 30px 10px 30px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  background: rgba(97, 106, 107, 0.5);
+  border-radius: 10px;
+}
+
+p.skill-element {
+  display: inline;
+}
+
+div.skills-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+
+form.skills {
+  margin-left: 1.5rem;
+}
+
+h3.skills {
+  margin-bottom: 0;
+}
